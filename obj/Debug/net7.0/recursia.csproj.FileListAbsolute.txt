@@ -1,0 +1,15 @@
+/Users/suzannabuniatan/Desktop/sem6/recursia/bin/Debug/net7.0/recursia
+/Users/suzannabuniatan/Desktop/sem6/recursia/bin/Debug/net7.0/recursia.deps.json
+/Users/suzannabuniatan/Desktop/sem6/recursia/bin/Debug/net7.0/recursia.runtimeconfig.json
+/Users/suzannabuniatan/Desktop/sem6/recursia/bin/Debug/net7.0/recursia.dll
+/Users/suzannabuniatan/Desktop/sem6/recursia/bin/Debug/net7.0/recursia.pdb
+/Users/suzannabuniatan/Desktop/sem6/recursia/obj/Debug/net7.0/recursia.csproj.AssemblyReference.cache
+/Users/suzannabuniatan/Desktop/sem6/recursia/obj/Debug/net7.0/recursia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suzannabuniatan/Desktop/sem6/recursia/obj/Debug/net7.0/recursia.AssemblyInfoInputs.cache
+/Users/suzannabuniatan/Desktop/sem6/recursia/obj/Debug/net7.0/recursia.AssemblyInfo.cs
+/Users/suzannabuniatan/Desktop/sem6/recursia/obj/Debug/net7.0/recursia.csproj.CoreCompileInputs.cache
+/Users/suzannabuniatan/Desktop/sem6/recursia/obj/Debug/net7.0/recursia.dll
+/Users/suzannabuniatan/Desktop/sem6/recursia/obj/Debug/net7.0/refint/recursia.dll
+/Users/suzannabuniatan/Desktop/sem6/recursia/obj/Debug/net7.0/recursia.pdb
+/Users/suzannabuniatan/Desktop/sem6/recursia/obj/Debug/net7.0/recursia.genruntimeconfig.cache
+/Users/suzannabuniatan/Desktop/sem6/recursia/obj/Debug/net7.0/ref/recursia.dll
